@@ -1,0 +1,23 @@
+body {
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif;
+}
+
+.border-blue {
+  border: 1px solid blue;
+  padding: 0.25em;
+}
+
+.border-yellow {
+  border: 1px solid yellow;
+  padding: 0.25em;
+}
+
+.border-purple {
+  border: 1px solid purple;
+  padding: 0.25em;
+}
+
+.border-green {
+  border: 1px solid green;
+  padding: 0.25em;
+}
