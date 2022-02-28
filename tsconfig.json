@@ -3,7 +3,7 @@
     "module": "commonjs",
     "target": "esnext",
     "noImplicitAny": false,
-    "outDir": "builld",
+    "outDir": "build",
     "rootDir": "src",
     "sourceMap": true
   },
